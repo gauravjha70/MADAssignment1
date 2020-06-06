@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "587108701062",
+    "firebase_url": "https://madassignment-e5d36.firebaseio.com",
+    "project_id": "madassignment-e5d36",
+    "storage_bucket": "madassignment-e5d36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587108701062:android:6a7833351eef8959bb1207",
+        "android_client_info": {
+          "package_name": "com.gaurav.madassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587108701062-a715beaf8hd9jkjr7qvpi35v7i25c7b1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdGRDLDpIE_DE4ZWchmOc1Hi6ZSkK_NBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587108701062-a715beaf8hd9jkjr7qvpi35v7i25c7b1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
